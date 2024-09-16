@@ -1,0 +1,26 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+BuildScript: C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\bin\Release\961b91c2-06b2-451e-9b58-22374299c2d5.bat
+// ***** Done, took 00:00:03 (3.11 sec)   *****
+// Found 2 benchmarks:
+//   BenchmarkTests.CoroutinesBenchmark: DefaultJob
+//   BenchmarkTests.ThreadsBenchmark: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// **************************
+// Benchmark: BenchmarkTests.CoroutinesBenchmark: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\bin\Release\961b91c2-06b2-451e-9b58-22374299c2d5.exe --anonymousPipes 1952 1948 --benchmarkName BenchmarkTests.CoroutinesBenchmark --job Default --benchmarkId 0 in 
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+// GC=Concurrent Workstation
+// HardwareIntrinsics= 
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 162500.00 ns, 162.5000 us/op

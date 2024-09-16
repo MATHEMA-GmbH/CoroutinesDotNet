@@ -1,0 +1,169 @@
+// Validating benchmarks:
+//    * No exporters defined, results will not be persisted.
+
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// ***** Done, took 00:00:00 (0.06 sec)   *****
+// Found 2 benchmarks:
+//   BenchmarkTests.CoroutinesBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+//   BenchmarkTests.ThreadsBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// **************************
+// Benchmark: BenchmarkTests.CoroutinesBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+// *** Execute ***
+// Launch: 1 / 1
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+// GC=Concurrent Workstation
+// HardwareIntrinsics= 
+// Job: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+OverheadJitting  1: 1 op, 172000.00 ns, 172.0000 us/op
+WorkloadJitting  1: 1 op, 1097924400.00 ns, 1.0979 s/op
+
+OverheadJitting  2: 1 op, 2800.00 ns, 2.8000 us/op
+WorkloadJitting  2: 1 op, 1006026000.00 ns, 1.0060 s/op
+
+WorkloadWarmup   1: 1 op, 1006647100.00 ns, 1.0066 s/op
+
+WorkloadActual   1: 1 op, 1096099200.00 ns, 1.0961 s/op
+WorkloadActual   2: 1 op, 1007010600.00 ns, 1.0070 s/op
+WorkloadActual   3: 1 op, 1100155000.00 ns, 1.1002 s/op
+WorkloadActual   4: 1 op, 1104891500.00 ns, 1.1049 s/op
+WorkloadActual   5: 1 op, 1100825700.00 ns, 1.1008 s/op
+WorkloadActual   6: 1 op, 1008704400.00 ns, 1.0087 s/op
+WorkloadActual   7: 1 op, 1100573200.00 ns, 1.1006 s/op
+WorkloadActual   8: 1 op, 1104350700.00 ns, 1.1044 s/op
+WorkloadActual   9: 1 op, 1005550200.00 ns, 1.0056 s/op
+WorkloadActual  10: 1 op, 1095513600.00 ns, 1.0955 s/op
+
+WorkloadResult   1: 1 op, 1096099200.00 ns, 1.0961 s/op
+WorkloadResult   2: 1 op, 1007010600.00 ns, 1.0070 s/op
+WorkloadResult   3: 1 op, 1100155000.00 ns, 1.1002 s/op
+WorkloadResult   4: 1 op, 1104891500.00 ns, 1.1049 s/op
+WorkloadResult   5: 1 op, 1100825700.00 ns, 1.1008 s/op
+WorkloadResult   6: 1 op, 1008704400.00 ns, 1.0087 s/op
+WorkloadResult   7: 1 op, 1100573200.00 ns, 1.1006 s/op
+WorkloadResult   8: 1 op, 1104350700.00 ns, 1.1044 s/op
+WorkloadResult   9: 1 op, 1005550200.00 ns, 1.0056 s/op
+WorkloadResult  10: 1 op, 1095513600.00 ns, 1.0955 s/op
+
+
+Mean = 1.072 s, StdErr = 0.014 s (1.33%), N = 10, StdDev = 0.045 s
+Min = 1.006 s, Q1 = 1.030 s, Median = 1.098 s, Q3 = 1.101 s, Max = 1.105 s
+IQR = 0.070 s, LowerFence = 0.925 s, UpperFence = 1.206 s
+ConfidenceInterval = [1.004 s; 1.141 s] (CI 99.9%), Margin = 0.068 s (6.37% of Mean)
+Skewness = -0.73, Kurtosis = 1.43, MValue = 2.86
+
+// ** Remained 1 (50,0 %) benchmark(s) to run. Estimated finish 2024-08-02 13:16 (0h 0m from now) **
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// **************************
+// Benchmark: BenchmarkTests.ThreadsBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+// *** Execute ***
+// Launch: 1 / 1
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+// GC=Concurrent Workstation
+// HardwareIntrinsics= 
+// Job: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+OverheadJitting  1: 1 op, 134200.00 ns, 134.2000 us/op
+WorkloadJitting  1: 1 op, 1037920100.00 ns, 1.0379 s/op
+
+OverheadJitting  2: 1 op, 3500.00 ns, 3.5000 us/op
+WorkloadJitting  2: 1 op, 1033712200.00 ns, 1.0337 s/op
+
+WorkloadWarmup   1: 1 op, 1104526400.00 ns, 1.1045 s/op
+
+WorkloadActual   1: 1 op, 1036778800.00 ns, 1.0368 s/op
+WorkloadActual   2: 1 op, 1094320000.00 ns, 1.0943 s/op
+WorkloadActual   3: 1 op, 1100284600.00 ns, 1.1003 s/op
+WorkloadActual   4: 1 op, 1100511100.00 ns, 1.1005 s/op
+WorkloadActual   5: 1 op, 1047654300.00 ns, 1.0477 s/op
+WorkloadActual   6: 1 op, 1102135200.00 ns, 1.1021 s/op
+WorkloadActual   7: 1 op, 1034999700.00 ns, 1.0350 s/op
+WorkloadActual   8: 1 op, 1101879500.00 ns, 1.1019 s/op
+WorkloadActual   9: 1 op, 1102316900.00 ns, 1.1023 s/op
+WorkloadActual  10: 1 op, 1036922300.00 ns, 1.0369 s/op
+
+WorkloadResult   1: 1 op, 1036778800.00 ns, 1.0368 s/op
+WorkloadResult   2: 1 op, 1094320000.00 ns, 1.0943 s/op
+WorkloadResult   3: 1 op, 1100284600.00 ns, 1.1003 s/op
+WorkloadResult   4: 1 op, 1100511100.00 ns, 1.1005 s/op
+WorkloadResult   5: 1 op, 1047654300.00 ns, 1.0477 s/op
+WorkloadResult   6: 1 op, 1102135200.00 ns, 1.1021 s/op
+WorkloadResult   7: 1 op, 1034999700.00 ns, 1.0350 s/op
+WorkloadResult   8: 1 op, 1101879500.00 ns, 1.1019 s/op
+WorkloadResult   9: 1 op, 1102316900.00 ns, 1.1023 s/op
+WorkloadResult  10: 1 op, 1036922300.00 ns, 1.0369 s/op
+
+
+Mean = 1.076 s, StdErr = 0.010 s (0.94%), N = 10, StdDev = 0.032 s
+Min = 1.035 s, Q1 = 1.040 s, Median = 1.097 s, Q3 = 1.102 s, Max = 1.102 s
+IQR = 0.062 s, LowerFence = 0.947 s, UpperFence = 1.194 s
+ConfidenceInterval = [1.028 s; 1.124 s] (CI 99.9%), Margin = 0.048 s (4.47% of Mean)
+Skewness = -0.36, Kurtosis = 1, MValue = 2
+
+// ** Remained 0 (0,0 %) benchmark(s) to run. Estimated finish 2024-08-02 13:16 (0h 0m from now) **
+Successfully reverted power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+
+// * Detailed results *
+BenchmarkTests.CoroutinesBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+Runtime = ; GC = 
+Mean = 1.072 s, StdErr = 0.014 s (1.33%), N = 10, StdDev = 0.045 s
+Min = 1.006 s, Q1 = 1.030 s, Median = 1.098 s, Q3 = 1.101 s, Max = 1.105 s
+IQR = 0.070 s, LowerFence = 0.925 s, UpperFence = 1.206 s
+ConfidenceInterval = [1.004 s; 1.141 s] (CI 99.9%), Margin = 0.068 s (6.37% of Mean)
+Skewness = -0.73, Kurtosis = 1.43, MValue = 2.86
+-------------------- Histogram --------------------
+[0.978 s ; 1.035 s) | @@@
+[1.035 s ; 1.073 s) | 
+[1.073 s ; 1.132 s) | @@@@@@@
+---------------------------------------------------
+
+BenchmarkTests.ThreadsBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+Runtime = ; GC = 
+Mean = 1.076 s, StdErr = 0.010 s (0.94%), N = 10, StdDev = 0.032 s
+Min = 1.035 s, Q1 = 1.040 s, Median = 1.097 s, Q3 = 1.102 s, Max = 1.102 s
+IQR = 0.062 s, LowerFence = 0.947 s, UpperFence = 1.194 s
+ConfidenceInterval = [1.028 s; 1.124 s] (CI 99.9%), Margin = 0.048 s (4.47% of Mean)
+Skewness = -0.36, Kurtosis = 1, MValue = 2
+-------------------- Histogram --------------------
+[1.022 s ; 1.079 s) | @@@@
+[1.079 s ; 1.122 s) | @@@@@@
+---------------------------------------------------
+
+// * Summary *
+
+BenchmarkDotNet v0.13.12, Windows 10 (10.0.19045.4651/22H2/2022Update)
+11th Gen Intel Core i7-11800H 2.30GHz, 1 CPU, 16 logical and 8 physical cores
+  [Host] : .NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+
+Toolchain=InProcessEmitToolchain  IterationCount=10  WarmupCount=1  
+
+| Method              | Mean    | Error    | StdDev   |
+|-------------------- |--------:|---------:|---------:|
+| CoroutinesBenchmark | 1.072 s | 0.0683 s | 0.0451 s |
+| ThreadsBenchmark    | 1.076 s | 0.0481 s | 0.0318 s |
+
+// * Legends *
+  Mean   : Arithmetic mean of all measurements
+  Error  : Half of 99.9% confidence interval
+  StdDev : Standard deviation of all measurements
+  1 s    : 1 Second (1 sec)
+
+// ***** BenchmarkRunner: End *****
+Run time: 00:00:28 (28.08 sec), executed benchmarks: 2
+
+Global total time: 00:00:29 (29.38 sec), executed benchmarks: 2
+// * Artifacts cleanup *
+Artifacts cleanup is finished

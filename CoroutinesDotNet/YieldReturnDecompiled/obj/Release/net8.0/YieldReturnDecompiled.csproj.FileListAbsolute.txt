@@ -1,0 +1,14 @@
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.AssemblyInfoInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.AssemblyInfo.cs
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.csproj.CoreCompileInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\bin\Release\net8.0\YieldReturnDecompiled.exe
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\bin\Release\net8.0\YieldReturnDecompiled.deps.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\bin\Release\net8.0\YieldReturnDecompiled.runtimeconfig.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\bin\Release\net8.0\YieldReturnDecompiled.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\bin\Release\net8.0\YieldReturnDecompiled.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\refint\YieldReturnDecompiled.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\YieldReturnDecompiled.genruntimeconfig.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnDecompiled\obj\Release\net8.0\ref\YieldReturnDecompiled.dll

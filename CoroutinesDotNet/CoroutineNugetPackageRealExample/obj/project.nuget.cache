@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgvDpU3atEVX8k36joDPWszhb97qqcTqJp21XL5URNv0WzReoFU3n2g8XJwA9L/sO8nyv1A53VLfDgzm+Oudgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dcorrea\\source\\repos\\CoroutinesDotNet\\CoroutinesDotNet\\CoroutineNugetPackageRealExample\\CoroutineNugetPackageRealExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcorrea\\.nuget\\packages\\coroutine\\2.1.5\\coroutine.2.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

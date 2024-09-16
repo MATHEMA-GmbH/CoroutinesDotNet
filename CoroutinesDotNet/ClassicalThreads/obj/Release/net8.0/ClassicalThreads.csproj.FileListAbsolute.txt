@@ -1,0 +1,14 @@
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\bin\Release\net8.0\ClassicalThreads.exe
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\bin\Release\net8.0\ClassicalThreads.deps.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\bin\Release\net8.0\ClassicalThreads.runtimeconfig.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\bin\Release\net8.0\ClassicalThreads.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\bin\Release\net8.0\ClassicalThreads.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.AssemblyInfoInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.AssemblyInfo.cs
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.csproj.CoreCompileInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\refint\ClassicalThreads.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ClassicalThreads.genruntimeconfig.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\ClassicalThreads\obj\Release\net8.0\ref\ClassicalThreads.dll

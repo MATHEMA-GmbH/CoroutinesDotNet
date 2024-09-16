@@ -1,0 +1,17 @@
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\bin\Debug\net8.0\CoroutineNugetPackageRealExample.exe
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\bin\Debug\net8.0\CoroutineNugetPackageRealExample.deps.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\bin\Debug\net8.0\CoroutineNugetPackageRealExample.runtimeconfig.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\bin\Debug\net8.0\CoroutineNugetPackageRealExample.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\bin\Debug\net8.0\CoroutineNugetPackageRealExample.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\bin\Debug\net8.0\Coroutine.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.csproj.AssemblyReference.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.AssemblyInfoInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.AssemblyInfo.cs
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.csproj.CoreCompileInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\Coroutin.54004DFE.Up2Date
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\refint\CoroutineNugetPackageRealExample.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\CoroutineNugetPackageRealExample.genruntimeconfig.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutineNugetPackageRealExample\obj\Debug\net8.0\ref\CoroutineNugetPackageRealExample.dll

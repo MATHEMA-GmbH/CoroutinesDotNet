@@ -1,0 +1,14 @@
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\bin\Debug\net8.0\Coroutines.exe
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\bin\Debug\net8.0\Coroutines.deps.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\bin\Debug\net8.0\Coroutines.runtimeconfig.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\bin\Debug\net8.0\Coroutines.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\bin\Debug\net8.0\Coroutines.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.AssemblyInfoInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.AssemblyInfo.cs
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.csproj.CoreCompileInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\refint\Coroutines.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\Coroutines.genruntimeconfig.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\Coroutines\obj\Debug\net8.0\ref\Coroutines.dll

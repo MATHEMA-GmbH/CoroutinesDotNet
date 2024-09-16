@@ -1,0 +1,241 @@
+// Validating benchmarks:
+//    * No exporters defined, results will not be persisted.
+
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 3 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// ***** Done, took 00:00:00 (0.05 sec)   *****
+// Found 3 benchmarks:
+//   BenchmarkTests.CoroutinesBenchmarkIEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+//   BenchmarkTests.CoroutinesBenchmarkIAsyncEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+//   BenchmarkTests.ThreadsBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// **************************
+// Benchmark: BenchmarkTests.CoroutinesBenchmarkIEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+// *** Execute ***
+// Launch: 1 / 1
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+// GC=Concurrent Workstation
+// HardwareIntrinsics= 
+// Job: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+OverheadJitting  1: 1 op, 134000.00 ns, 134.0000 us/op
+WorkloadJitting  1: 1 op, 1018306200.00 ns, 1.0183 s/op
+
+OverheadJitting  2: 1 op, 2000.00 ns, 2.0000 us/op
+WorkloadJitting  2: 1 op, 1106677600.00 ns, 1.1067 s/op
+
+WorkloadWarmup   1: 1 op, 1096516700.00 ns, 1.0965 s/op
+
+WorkloadActual   1: 1 op, 1012186200.00 ns, 1.0122 s/op
+WorkloadActual   2: 1 op, 1102849700.00 ns, 1.1028 s/op
+WorkloadActual   3: 1 op, 1103434700.00 ns, 1.1034 s/op
+WorkloadActual   4: 1 op, 1105293500.00 ns, 1.1053 s/op
+WorkloadActual   5: 1 op, 1105356700.00 ns, 1.1054 s/op
+WorkloadActual   6: 1 op, 1094822000.00 ns, 1.0948 s/op
+WorkloadActual   7: 1 op, 1103057900.00 ns, 1.1031 s/op
+WorkloadActual   8: 1 op, 1009575400.00 ns, 1.0096 s/op
+WorkloadActual   9: 1 op, 1106119200.00 ns, 1.1061 s/op
+WorkloadActual  10: 1 op, 1101295600.00 ns, 1.1013 s/op
+
+WorkloadResult   1: 1 op, 1012186200.00 ns, 1.0122 s/op
+WorkloadResult   2: 1 op, 1102849700.00 ns, 1.1028 s/op
+WorkloadResult   3: 1 op, 1103434700.00 ns, 1.1034 s/op
+WorkloadResult   4: 1 op, 1105293500.00 ns, 1.1053 s/op
+WorkloadResult   5: 1 op, 1105356700.00 ns, 1.1054 s/op
+WorkloadResult   6: 1 op, 1094822000.00 ns, 1.0948 s/op
+WorkloadResult   7: 1 op, 1103057900.00 ns, 1.1031 s/op
+WorkloadResult   8: 1 op, 1009575400.00 ns, 1.0096 s/op
+WorkloadResult   9: 1 op, 1106119200.00 ns, 1.1061 s/op
+WorkloadResult  10: 1 op, 1101295600.00 ns, 1.1013 s/op
+// GC:  0 0 0 147456 1
+// Threading:  0 0 1
+// Exceptions:  1
+
+
+Mean = 1.084 s, StdErr = 0.012 s (1.13%), N = 10, StdDev = 0.039 s
+Min = 1.010 s, Q1 = 1.096 s, Median = 1.103 s, Q3 = 1.105 s, Max = 1.106 s
+IQR = 0.008 s, LowerFence = 1.084 s, UpperFence = 1.117 s
+ConfidenceInterval = [1.026 s; 1.143 s] (CI 99.9%), Margin = 0.059 s (5.42% of Mean)
+Skewness = -1.26, Kurtosis = 2.61, MValue = 2
+
+// ** Remained 2 (66,7 %) benchmark(s) to run. Estimated finish 2024-08-03 0:33 (0h 0m from now) **
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// **************************
+// Benchmark: BenchmarkTests.CoroutinesBenchmarkIAsyncEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+// *** Execute ***
+// Launch: 1 / 1
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+// GC=Concurrent Workstation
+// HardwareIntrinsics= 
+// Job: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+OverheadJitting  1: 1 op, 120100.00 ns, 120.1000 us/op
+
+System.Reflection.TargetInvocationException: Ein Aufrufziel hat einen Ausnahmefehler verursacht. ---> System.Threading.Tasks.TaskCanceledException: Eine Aufgabe wurde abgebrochen.
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Interval.<Delay>d__3.MoveNext() in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\Program.cs:Zeile 282.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei BenchmarkTests.<>c__DisplayClass9_0`1.<<DriveCoroutinesAsync>b__0>d.MoveNext() in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\Program.cs:Zeile 139.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei BenchmarkTests.<>c__DisplayClass9_0`1.<<DriveCoroutinesAsync>b__0>d.MoveNext() in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\Program.cs:Zeile 137.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei BenchmarkTests.<DriveCoroutinesAsync>d__9`1.MoveNext() in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\Program.cs:Zeile 143.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei BenchmarkTests.<CoroutinesBenchmarkIAsyncEnumerable>d__4.MoveNext() in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\Program.cs:Zeile 58.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei BenchmarkDotNet.Autogenerated.Runnable_1.__Workload()
+   bei BenchmarkDotNet.Autogenerated.Runnable_1.WorkloadActionNoUnroll(Int64 invokeCount)
+   bei BenchmarkDotNet.Engines.Engine.RunIteration(IterationData data)
+   bei BenchmarkDotNet.Engines.EngineFactory.Jit(Engine engine, Int32 jitIndex, Int32 invokeCount, Int32 unrollFactor)
+   bei BenchmarkDotNet.Engines.EngineFactory.CreateReadyToRun(EngineParameters engineParameters)
+   bei BenchmarkDotNet.Autogenerated.Runnable_1.Run(BenchmarkCase benchmarkCase, IHost host)
+   --- Ende der internen Ausnahmestapelüberwachung ---
+   bei System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   bei System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   bei System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   bei BenchmarkDotNet.Toolchains.InProcess.Emit.Implementation.RunnableProgram.Run(BenchmarkId benchmarkId, Assembly partitionAssembly, BenchmarkCase benchmarkCase, IHost host)
+Executable C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesVsThreads\bin\Release\d0d7bb01-5fa6-4474-87f0-5697fbf5c62fEmitted.dll not found
+ExitCode != 0 and no results reported
+No Workload Results were obtained from the run.
+
+// ** Remained 1 (33,3 %) benchmark(s) to run. Estimated finish 2024-08-03 0:33 (0h 0m from now) **
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// **************************
+// Benchmark: BenchmarkTests.ThreadsBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+// *** Execute ***
+// Launch: 1 / 1
+
+// Benchmark Process Environment Information:
+// BenchmarkDotNet v0.13.12
+// Runtime=.NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+// GC=Concurrent Workstation
+// HardwareIntrinsics= 
+// Job: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+OverheadJitting  1: 1 op, 161400.00 ns, 161.4000 us/op
+WorkloadJitting  1: 1 op, 1094766300.00 ns, 1.0948 s/op
+
+OverheadJitting  2: 1 op, 2300.00 ns, 2.3000 us/op
+WorkloadJitting  2: 1 op, 1099253700.00 ns, 1.0993 s/op
+
+WorkloadWarmup   1: 1 op, 1101700200.00 ns, 1.1017 s/op
+
+WorkloadActual   1: 1 op, 1097803300.00 ns, 1.0978 s/op
+WorkloadActual   2: 1 op, 1110045300.00 ns, 1.1100 s/op
+WorkloadActual   3: 1 op, 1103940400.00 ns, 1.1039 s/op
+WorkloadActual   4: 1 op, 1106693200.00 ns, 1.1067 s/op
+WorkloadActual   5: 1 op, 1102807400.00 ns, 1.1028 s/op
+WorkloadActual   6: 1 op, 1032822600.00 ns, 1.0328 s/op
+WorkloadActual   7: 1 op, 1104307900.00 ns, 1.1043 s/op
+WorkloadActual   8: 1 op, 1106133600.00 ns, 1.1061 s/op
+WorkloadActual   9: 1 op, 1101692000.00 ns, 1.1017 s/op
+WorkloadActual  10: 1 op, 1103328500.00 ns, 1.1033 s/op
+
+WorkloadResult   1: 1 op, 1097803300.00 ns, 1.0978 s/op
+WorkloadResult   2: 1 op, 1110045300.00 ns, 1.1100 s/op
+WorkloadResult   3: 1 op, 1103940400.00 ns, 1.1039 s/op
+WorkloadResult   4: 1 op, 1106693200.00 ns, 1.1067 s/op
+WorkloadResult   5: 1 op, 1102807400.00 ns, 1.1028 s/op
+WorkloadResult   6: 1 op, 1032822600.00 ns, 1.0328 s/op
+WorkloadResult   7: 1 op, 1104307900.00 ns, 1.1043 s/op
+WorkloadResult   8: 1 op, 1106133600.00 ns, 1.1061 s/op
+WorkloadResult   9: 1 op, 1101692000.00 ns, 1.1017 s/op
+WorkloadResult  10: 1 op, 1103328500.00 ns, 1.1033 s/op
+// GC:  0 0 0 40960 1
+// Threading:  0 0 1
+
+
+Mean = 1.097 s, StdErr = 0.007 s (0.66%), N = 10, StdDev = 0.023 s
+Min = 1.033 s, Q1 = 1.102 s, Median = 1.104 s, Q3 = 1.106 s, Max = 1.110 s
+IQR = 0.004 s, LowerFence = 1.096 s, UpperFence = 1.111 s
+ConfidenceInterval = [1.063 s; 1.131 s] (CI 99.9%), Margin = 0.034 s (3.14% of Mean)
+Skewness = -2.19, Kurtosis = 6.32, MValue = 2
+
+// ** Remained 0 (0,0 %) benchmark(s) to run. Estimated finish 2024-08-03 0:33 (0h 0m from now) **
+Successfully reverted power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: Höchstleistung)
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+
+// * Detailed results *
+BenchmarkTests.CoroutinesBenchmarkIEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+Runtime = ; GC = 
+Mean = 1.084 s, StdErr = 0.012 s (1.13%), N = 10, StdDev = 0.039 s
+Min = 1.010 s, Q1 = 1.096 s, Median = 1.103 s, Q3 = 1.105 s, Max = 1.106 s
+IQR = 0.008 s, LowerFence = 1.084 s, UpperFence = 1.117 s
+ConfidenceInterval = [1.026 s; 1.143 s] (CI 99.9%), Margin = 0.059 s (5.42% of Mean)
+Skewness = -1.26, Kurtosis = 2.61, MValue = 2
+-------------------- Histogram --------------------
+[0.986 s ; 1.035 s) | @@
+[1.035 s ; 1.077 s) | 
+[1.077 s ; 1.130 s) | @@@@@@@@
+---------------------------------------------------
+
+BenchmarkTests.CoroutinesBenchmarkIAsyncEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+Runtime = ; GC = 
+There are not any results runs
+
+BenchmarkTests.ThreadsBenchmark: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+Runtime = ; GC = 
+Mean = 1.097 s, StdErr = 0.007 s (0.66%), N = 10, StdDev = 0.023 s
+Min = 1.033 s, Q1 = 1.102 s, Median = 1.104 s, Q3 = 1.106 s, Max = 1.110 s
+IQR = 0.004 s, LowerFence = 1.096 s, UpperFence = 1.111 s
+ConfidenceInterval = [1.063 s; 1.131 s] (CI 99.9%), Margin = 0.034 s (3.14% of Mean)
+Skewness = -2.19, Kurtosis = 6.32, MValue = 2
+-------------------- Histogram --------------------
+[1.019 s ; 1.047 s) | @
+[1.047 s ; 1.074 s) | 
+[1.074 s ; 1.118 s) | @@@@@@@@@
+---------------------------------------------------
+
+// * Summary *
+
+BenchmarkDotNet v0.13.12, Windows 10 (10.0.19045.4651/22H2/2022Update)
+11th Gen Intel Core i7-11800H 2.30GHz, 1 CPU, 16 logical and 8 physical cores
+  [Host] : .NET Framework 4.8.1 (4.8.9256.0), X86 LegacyJIT
+
+Toolchain=InProcessEmitToolchain  IterationCount=10  WarmupCount=1  
+
+| Method                              | Mean    | Error    | StdDev   | Allocated |
+|------------------------------------ |--------:|---------:|---------:|----------:|
+| CoroutinesBenchmarkIEnumerable      | 1.084 s | 0.0588 s | 0.0389 s |    144 KB |
+| CoroutinesBenchmarkIAsyncEnumerable |      NA |       NA |       NA |        NA |
+| ThreadsBenchmark                    | 1.097 s | 0.0344 s | 0.0228 s |     40 KB |
+
+Benchmarks with issues:
+  BenchmarkTests.CoroutinesBenchmarkIAsyncEnumerable: Job-HPZIMT(Toolchain=InProcessEmitToolchain, IterationCount=10, WarmupCount=1)
+
+// * Legends *
+  Mean      : Arithmetic mean of all measurements
+  Error     : Half of 99.9% confidence interval
+  StdDev    : Standard deviation of all measurements
+  Allocated : Allocated memory per single operation (managed only, inclusive, 1KB = 1024B)
+  1 s       : 1 Second (1 sec)
+
+// * Diagnostic Output - MemoryDiagnoser *
+
+
+// ***** BenchmarkRunner: End *****
+Run time: 00:00:31 (31.75 sec), executed benchmarks: 2
+
+Global total time: 00:00:33 (33.18 sec), executed benchmarks: 2
+// * Artifacts cleanup *
+Artifacts cleanup is finished

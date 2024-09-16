@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturn\bin\Release\net8.0\1ed4ae1d-a337-4849-bc8e-adae753e4da3
+// command took 2 sec and exited with 0
+// start dotnet  build -c Release --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturn\bin\Release\net8.0\1ed4ae1d-a337-4849-bc8e-adae753e4da3

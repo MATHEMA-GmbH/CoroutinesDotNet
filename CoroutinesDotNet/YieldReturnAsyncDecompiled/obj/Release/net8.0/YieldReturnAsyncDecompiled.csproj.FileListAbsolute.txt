@@ -1,0 +1,14 @@
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.AssemblyInfoInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.AssemblyInfo.cs
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.csproj.CoreCompileInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\bin\Release\net8.0\YieldReturnAsyncDecompiled.exe
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\bin\Release\net8.0\YieldReturnAsyncDecompiled.deps.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\bin\Release\net8.0\YieldReturnAsyncDecompiled.runtimeconfig.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\bin\Release\net8.0\YieldReturnAsyncDecompiled.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\bin\Release\net8.0\YieldReturnAsyncDecompiled.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\refint\YieldReturnAsyncDecompiled.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\YieldReturnAsyncDecompiled.genruntimeconfig.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\YieldReturnAsyncDecompiled\obj\Release\net8.0\ref\YieldReturnAsyncDecompiled.dll

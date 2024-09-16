@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoroutineNugetPackageRealExample/1.0.0": {
+        "dependencies": {
+          "Coroutine": "2.1.5"
+        },
+        "runtime": {
+          "CoroutineNugetPackageRealExample.dll": {}
+        }
+      },
+      "Coroutine/2.1.5": {
+        "runtime": {
+          "lib/net6.0/Coroutine.dll": {
+            "assemblyVersion": "2.1.5.0",
+            "fileVersion": "2.1.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoroutineNugetPackageRealExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Coroutine/2.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oqBFi+ivqCQHi0evkbIUvYDyT6UbZ+vWT06vqhJ+QrksHR3NEvOiHUyJ5Dd7GD7QeXdsbYjRvy/msoL+QBd4DA==",
+      "path": "coroutine/2.1.5",
+      "hashPath": "coroutine.2.1.5.nupkg.sha512"
+    }
+  }
+}

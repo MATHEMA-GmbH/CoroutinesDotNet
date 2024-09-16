@@ -1,0 +1,17 @@
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\bin\Debug\net8.0\CoroutinesNugetPackage.exe
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\bin\Debug\net8.0\CoroutinesNugetPackage.deps.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\bin\Debug\net8.0\CoroutinesNugetPackage.runtimeconfig.json
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\bin\Debug\net8.0\CoroutinesNugetPackage.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\bin\Debug\net8.0\CoroutinesNugetPackage.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\bin\Debug\net8.0\Coroutine.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.csproj.AssemblyReference.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.AssemblyInfoInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.AssemblyInfo.cs
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.csproj.CoreCompileInputs.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\Coroutin.5B6180B5.Up2Date
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\refint\CoroutinesNugetPackage.dll
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.pdb
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\CoroutinesNugetPackage.genruntimeconfig.cache
+C:\Users\dcorrea\source\repos\CoroutinesDotNet\CoroutinesDotNet\CoroutinesNugetPackage\obj\Debug\net8.0\ref\CoroutinesNugetPackage.dll
