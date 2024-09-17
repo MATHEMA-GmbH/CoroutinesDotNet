@@ -18,7 +18,7 @@ layout: my-two-cols
 
 #### **Efficiency in resource management**
 
-- Coroutines allow concurrent tasks to be performed without the overhead of operating system threads. By not requiring multiple threads, they avoid excessive resource consumption such as memory and CPU cycles.
+- Coroutines allow concurrent tasks to be performed without the overhead of operating system threads.
 <br/>
 #### **Ease of handling asynchronous I/O**
 
@@ -220,16 +220,14 @@ layout: my-two-cols
 </tr>
 </table>
 
-Characteristics
+**Characteristics**
 
 There are two predefined ways to pause a coroutine:
-
-    Waiting for a certain amount of seconds to have passed
-    Waiting for a certain custom event to occur
+- Waiting for a certain amount of seconds to have passed
+- Waiting for a certain custom event to occur
 
 Additionally, Coroutine provides the following features:
-
-    Creation of custom events to wait for
-    No multi-threading, which allows for any kind of process to be executed in a coroutine, including rendering
-    Thread-safety, which allows for coroutines to be started from different threads
+- Creation of custom events to wait for
+- No multi-threading, which allows for any kind of process to be executed in a coroutine
+- Thread-safety, which allows for coroutines to be started from different threads
 
